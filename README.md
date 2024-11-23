@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página HTML5 e CSS3</title>
+    <title>Jiu Jitsu</title>
 </head>
 <body>
     <main>
         <div>
             <h1>Obrigado por Visualizar meu Projeto</h1>
-            <img style="width: 1000px;" src="Captura de ecrã 2024-11-23 001456.png" alt="Jiu-Jitsu">
+            Primeiro Site Desenvolvido com HTML5 E CSS3.
         </div>
     </main>
 </body>
