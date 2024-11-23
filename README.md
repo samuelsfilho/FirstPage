@@ -9,7 +9,7 @@
     <main>
         <div>
             <h1>Obrigado por Visualizar meu Projeto</h1>
-            <img src="Captura de ecrã 2024-11-23 001456.png" alt="Jiu-Jitsu">
+            <img style="width: 1000px;" src="Captura de ecrã 2024-11-23 001456.png" alt="Jiu-Jitsu">
         </div>
     </main>
 </body>
