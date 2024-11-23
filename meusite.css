@@ -11,8 +11,17 @@ body {
     text-align: center;
     display: inline-block;
     border-radius: 40%;
+    margin-left: 450px;
+    background-size: 0cqmax;
+    
+}
 
+/* Estilizar para o Video Repetir Sempre */
 
+.Conceitos video {
+    margin-left: 450px;
+    background-repeat: inherit;
+    
 }
 
 h1 {
