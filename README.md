@@ -8,7 +8,7 @@
 <body>
     <main>
         <div>
-            <h1>Obrigado por Visualizar meu Projeto</h1>
+            <h1>Site abordando conteúdo desportivo</h1>
             Primeiro Site Desenvolvido com HTML5 E CSS3.
         </div>
     </main>
